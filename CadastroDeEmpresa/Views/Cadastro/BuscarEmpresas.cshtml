@@ -1,0 +1,21 @@
+﻿@model Empresa
+
+@{
+    ViewData["Title"] = "Buscar Registros";
+}
+
+<h1 style="font: medium; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font: 300; text-align: center">Buscar Registros</h1>
+
+<form asp-action="Buscar" method="post">
+    <div>
+        <label>INSIRA UM CNPJ:</label>
+        <input type="text" id="cnpj" required name="cnpj" maxlength="18" minlength="18"
+               placeholder="00.000.000/0000-00" style="border-radius: 10px;" />
+    </div>
+    <footer>
+        <div>
+            <button type="submit" style="background-color: #4CAF50;">Buscar</button>
+        </div>
+    </footer>
+</form>
+

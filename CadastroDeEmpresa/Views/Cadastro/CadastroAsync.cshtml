@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Cadastro";
+}
+@model Empresa
+<h1 style="font: medium; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font: 300; text-align: center">Dados da Empresa na Receita Federal</h1>
+<form asp-route="Adicionar" method="post">
+    <div>
+        <label for="CNPJ">Cadastro de Pessoa Jurídica: </label>
+        <input type="text" asp-for="@Model.CNPJ">
+    </div>
+    <hr />
+    <div>
+        <label for="nome">Nome da Empresa</label>
+        <input type="text" asp-for="@Model.Nome">
+    </div>
+    <hr />
+    <div>
+        <label for="fantasia">Nome Fantasia</label>
+        <input type="text" asp-for="@Model.Fantasia">
+    </div>
+    <hr />
+    <div>
+        <label for="telefone">Telefone</label>
+        <input type="text" asp-for="@Model.Telefone">
+    </div>
+    <hr />
+    <div>
+        <label for="email">Email</label>
+        <input type="email" asp-for="@Model.Email">
+    </div>
+    <hr />
+    <div>
+        <label for="abertura">Data de Abertura</label>
+        <input type="text" asp-for="@Model.Abertura">
+    </div>
+    <hr />
+    <div>
+        <label for="Porte">Porte</label>
+        <input type="text" asp-for="@Model.Porte">
+    </div>
+    <hr />
+    <div>
+        <label for="situacao">Situação Cadastral</label>
+        <input type="text" asp-for="@Model.Situacao">
+    </div>
+    <hr />
+    <div>
+        <label for="logradouro">Endereço</label>
+        <input type="text" asp-for="@Model.Logradouro">
+    </div>
+    <hr />
+    <div>
+        <label for="numero">Número</label>
+        <input type="text" asp-for="@Model.Numero">
+    </div>
+    <hr />
+    <div>
+        <label for="complemento">Complemento</label>
+        <input type="text" asp-for="@Model.Complemento">
+    </div>
+    <hr />
+    <div>
+        <label for="bairro">Bairro</label>
+        <input type="text" asp-for="@Model.Bairro">
+    </div>
+    <hr />
+    <div>
+        <label for="municipio">Município</label>
+        <input type="text" asp-for="@Model.Municipio">
+    </div>
+    <hr />
+    <div>
+        <label for="cep">CEP</label>
+        <input type="text" asp-for="@Model.CEP">
+    </div>
+    <hr />
+    <div>
+        <label for="uf">UF</label>
+        <input type="text" asp-for="@Model.UF">
+    </div>
+    <hr />
+    <div>
+        <button type="submit"
+                style="background-color: #4CAF50;" asp-action="Adicionar">
+            Cadastrar
+        </button>
+    </div>
+</form>

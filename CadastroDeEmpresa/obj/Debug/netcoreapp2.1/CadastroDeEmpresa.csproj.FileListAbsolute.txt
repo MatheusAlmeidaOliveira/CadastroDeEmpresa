@@ -1,0 +1,160 @@
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.deps.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csprojAssemblyReference.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.input.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.output.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorCoreGenerate.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CopyComplete
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\CadastroAsync.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.deps.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csprojAssemblyReference.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.input.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.output.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorCoreGenerate.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Adicionar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Buscar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\CadastroAsync.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CopyComplete
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.deps.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csprojAssemblyReference.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.input.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.output.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorCoreGenerate.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Adicionar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Buscar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\BuscarEmpresas.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\CadastroAsync.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Menu.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Remover.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CopyComplete
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.deps.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csprojAssemblyReference.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.input.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.output.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorCoreGenerate.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Adicionar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Buscar.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\BuscarEmpresas.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\CadastroAsync.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Menu.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Remover.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cache
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CopyComplete
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jarvis\source\repos\CadastroDeEmpresa SavePoint - Cópia - Cópia\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.deps.json
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.json
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.runtimeconfig.dev.json
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.dll
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\bin\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csprojAssemblyReference.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorAssemblyInfo.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.AssemblyInfo.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.input.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.TagHelpers.output.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorCoreGenerate.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Adicionar.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Buscar.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\BuscarEmpresas.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\CadastroAsync.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Menu.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Remover.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cache
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.RazorTargetAssemblyInfo.cs
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.Views.pdb
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.dll
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.pdb
+C:\Users\Jarvis\Documents\CadastroDeEmpresa\CadastroDeEmpresa\obj\Debug\netcoreapp2.1\CadastroDeEmpresa.csproj.CopyComplete

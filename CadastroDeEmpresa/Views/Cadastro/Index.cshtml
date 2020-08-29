@@ -1,0 +1,20 @@
+﻿@model Empresa
+
+@{
+    ViewData["Title"] = "Adicionar Empresa";
+}
+
+<h1 style="font: medium; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font: 300; text-align: center">Adicionar Empresa</h1>
+
+<form asp-action="CadastroAsync" method="get">
+    <div>
+        <label>INSIRA UM CNPJ:</label>
+        <input type="text" required name="cnpj" maxlength="18" minlength="14"
+               placeholder="00.000.000/0000-00" style="border-radius: 10px;" />
+    </div>
+    <footer>
+        <div>
+            <button type="submit" style="background-color: #4CAF50;">Adicionar</button>
+        </div>
+    </footer>
+</form>
